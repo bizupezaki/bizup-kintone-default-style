@@ -97,6 +97,10 @@ button {
     margin-left: 1em;
     text-indent: -1em;
 }
+.bz_indent_02em {
+    margin-left: 2em;
+    text-indent: -2em;
+}
 
 /* カスタマイズ画面の横幅が広い場合にツールバーエリアをフィットさせる */
 .app-index-container-gaia {
