@@ -93,6 +93,7 @@ button {
     text-align: center;
 }
 
+/* 文字のインデント */
 .bz_indent_01em {
     margin-left: 1em;
     text-indent: -1em;
